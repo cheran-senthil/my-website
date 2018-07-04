@@ -21,6 +21,6 @@ weight = 5
 
 +++
 
-# Biography
+# About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Over the years I have built a strong foundation in pure mathematics complemented by experience programming. Recently, I have been curious about the underlying tech of blockchain and have worked towards solutions to replace ad-based revenue for sites by mining.
