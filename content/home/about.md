@@ -16,9 +16,8 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Bachelor of Technology Maths and Computing"
-  institution = "IIT Guwahati"
-  year = 2014
+  course = "B.Tech. in Maths and Computing"
+  institution = "IIT Guwahati, 2018"
 
 +++
 
