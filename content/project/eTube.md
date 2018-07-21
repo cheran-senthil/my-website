@@ -1,20 +1,20 @@
 +++
-title = "Chaturanga"
-date = 2018-07-04T14:03:39+05:30
+title = "eTube"
+date = 2018-07-21T21:18:22+05:30
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ['python', "games"]
+tags = ["node"]
 
 # Project summary to display on homepage.
-summary = "Chess API for Python"
+summary = "YouTube Clone"
 
 # Optional image to display on homepage.
 image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/Cheran-Senthil/Chaturanga"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false

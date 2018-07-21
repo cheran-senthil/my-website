@@ -1,20 +1,20 @@
 +++
-title = "Video Search Engine"
-date = 2018-07-04T14:09:50+05:30
+title = "WordWolf"
+date = 2018-07-21T21:19:05+05:30
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["python", "js"]
+tags = ["python"]
 
 # Project summary to display on homepage.
-summary = "Web application for searching and viewing videos with recommendations."
+summary = "Multi-purpose Anagrammer inspired by https://www.anagrammer.com/"
 
 # Optional image to display on homepage.
 image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/Cheran-Senthil/Video-Search-Engine"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false

@@ -5,10 +5,10 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["blockchain", "js"]
+tags = ["blockchain", "node"]
 
 # Project summary to display on homepage.
-summary = "kNight.js is the first completely free, open-source alternative to coin-hive as a CryptoNight miner built with JavaScript."
+summary = "A JavaScript based CryptoNight Miner."
 
 # Optional image to display on homepage.
 image_preview = ""

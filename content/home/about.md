@@ -23,4 +23,4 @@ weight = 5
 
 # About Me
 
-Over the years I have built a strong foundation in pure mathematics complemented by experience programming. Recently, I have been curious about the underlying tech of blockchain and have worked towards solutions to replace ad-based revenue for sites by mining.
+I come from a strong mathematical background owing to Olympiad preparation in high school. Partly in due to this, I graduated from one of India's top Institutes for Engineering with a degree in Math and CS.

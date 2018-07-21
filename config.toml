@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = ""
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -233,6 +233,11 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "//github.com/Cheran-Senthil"
 
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:cheran.v.senthil@gmail.com"
+
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -267,10 +272,10 @@ enableGitInfo = false
 #  url = "#teaching"
 #  weight = 5
 
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 6
+#[[menu.main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 6
 
 # Taxonomies.
 [taxonomies]

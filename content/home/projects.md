@@ -37,12 +37,16 @@ filter_default = 0
   tag = ".blockchain"
 
 [[filter]]
-  name = "JavaScript"
-  tag = ".js"
+  name = "Node.js"
+  tag = ".node"
 
 [[filter]]
   name = "Python"
   tag = ".python"
+
+[[filter]]
+  name = "Games"
+  tag = ".games"
 
 +++
 
