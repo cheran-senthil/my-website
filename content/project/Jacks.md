@@ -14,7 +14,7 @@ summary = "Poker Hand Evaluator"
 image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://github.com/Cheran-Senthil/Jacks"
 
 # Does the project detail page use math formatting?
 math = false

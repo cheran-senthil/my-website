@@ -14,7 +14,7 @@ summary = "Checkers API for Python"
 image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://github.com/Cheran-Senthil/PyDraught"
 
 # Does the project detail page use math formatting?
 math = false

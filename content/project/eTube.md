@@ -14,7 +14,7 @@ summary = "YouTube Clone"
 image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://github.com/Cheran-Senthil/eTube"
 
 # Does the project detail page use math formatting?
 math = false
